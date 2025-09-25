@@ -1,0 +1,10 @@
+# --- Archivos de Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+venv/
+*.env
+.idea/
+
